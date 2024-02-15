@@ -1,0 +1,11 @@
+_________________xyz Airlines_______________
+_________________xyz Airlines_______________
+_________________ticket_____________________
+____________________________________________
+Customer ID0
+Customer Name
+Customer Gender
+	Description
+
+destination		
+Flight cost :		0
